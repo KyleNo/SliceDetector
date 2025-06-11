@@ -1,0 +1,45 @@
+x = f()
+y = g(x)
+z = h(x, y)
+if p(y, z)
+    x = i(z)
+    z = j()
+else
+    w = k(x)
+fi
+y = l(x, z)
+if q(x)
+    if r(z)
+        x = m(y)
+    fi
+    if s(x)
+        if t(y)
+            z = n(z)
+        fi
+    fi
+fi
+x = f()
+y = g(x)
+z = h(x, y)
+if p(y, z)
+    x = i(z)
+    z = j()
+else
+    w = k(x)
+fi
+y = l(x, z)
+if q(x)
+    if r(z)
+        x = m(y)
+    fi
+    if s(x)
+        if t(y)
+            z = n(z)
+        fi
+    fi
+fi
+
+TTFTTFT
+0
+
+z
