@@ -1,0 +1,6 @@
+x = f()
+if p(x)
+else
+  y = h(x)
+fi
+z = i(y)

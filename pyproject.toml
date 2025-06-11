@@ -1,0 +1,9 @@
+[project]
+name = "final-project"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "pysmt==0.9.7.dev139",
+    "z3-solver==4.15.0.0",
+]

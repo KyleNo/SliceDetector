@@ -1,0 +1,13 @@
+x = f()
+w = j(x)
+if p(x)
+  y = g(x)
+else
+  y = h(x)
+fi
+z = i(y)
+
+F
+2
+
+z
